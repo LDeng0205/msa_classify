@@ -83,12 +83,10 @@ def predict_mutation_table(model, table, output_column="prediction_epistatic",
     """
     def _predict_mutant(mutation_str):
         try:
-            print(mutation_str)
             m = extract_mutations(mutation_str)
             delta_E = model.delta_hamiltonian(m)
             return delta_E[_component]
         except ValueError:
-            print('check')
             return np.nan
 
     # select Hamiltonian component for prediction
