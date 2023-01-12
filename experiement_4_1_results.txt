@@ -1,0 +1,105 @@
+kernel: poly, degree: 1, nu: 0.1, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 2, nu: 0.1, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 3, nu: 0.1, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: rbf, nu: 0.1, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: rbf, nu: 0.1, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 1, nu: 0.2, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 2, nu: 0.2, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 3, nu: 0.2, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: rbf, nu: 0.2, result:  716
+[ 1  1  1 -1  1  1  1  1  1  1 -1  1  1 -1  1  1  1  1  1  1]
+wild type pred:  [1]
+kernel: rbf, nu: 0.2, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 1, nu: 0.3, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 2, nu: 0.3, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 3, nu: 0.3, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: rbf, nu: 0.3, result:  543
+[-1 -1  1 -1 -1 -1 -1  1 -1 -1 -1 -1  1 -1 -1  1 -1 -1 -1  1]
+wild type pred:  [-1]
+kernel: rbf, nu: 0.3, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 1, nu: 0.4, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 2, nu: 0.4, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 3, nu: 0.4, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: rbf, nu: 0.4, result:  515
+[-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1]
+wild type pred:  [-1]
+kernel: rbf, nu: 0.4, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 1, nu: 0.5, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 2, nu: 0.5, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 3, nu: 0.5, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: rbf, nu: 0.5, result:  515
+[-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1]
+wild type pred:  [-1]
+kernel: rbf, nu: 0.5, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 1, nu: 0.6, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 2, nu: 0.6, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 3, nu: 0.6, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: rbf, nu: 0.6, result:  515
+[-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1]
+wild type pred:  [-1]
+kernel: rbf, nu: 0.6, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 1, nu: 0.7, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 2, nu: 0.7, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: poly, degree: 3, nu: 0.7, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
+kernel: rbf, nu: 0.7, result:  515
+[-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1]
+wild type pred:  [-1]
+kernel: rbf, nu: 0.7, result:  673
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+wild type pred:  [1]
