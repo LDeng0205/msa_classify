@@ -4,3 +4,5 @@ EVcouplings/
 EVmutation/
 plmc/
 simulation/
+store_rich_msa.obj
+store_rich_test.obj
